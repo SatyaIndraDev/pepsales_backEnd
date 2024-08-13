@@ -1,0 +1,22 @@
+{
+    "lanes": [
+      {
+        "id": "lane-1",
+        "title": "To Do",
+        "blocks": [
+          { "id": "block-1", "content": "Task 1", "history": [] }
+        ]
+      },
+      {
+        "id": "lane-2",
+        "title": "In Progress",
+        "blocks": []
+      },
+      {
+        "id": "lane-3",
+        "title": "Done",
+        "blocks": []
+      }
+    ]
+  }
+  
